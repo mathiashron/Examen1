@@ -16,6 +16,8 @@ namespace Examen_1
             ///de palabras
             ///</summary>
             int dato = 0;
+            //Comentario del profesor: si vas a usar una expresión regular para convertir las mayusculas en espacios, tenés que
+            //explicar como funciona esa expresión regular, sino asumo que solo la copiaste de internet sin entenderla y perdés 50% de la pregunta.
             var separar = Regex.Replace(cal, "(((?<!^)[A-Z](?=[a-z]))|((?<=[a-z])[A-Z]))", " $1");
             //Console.WriteLine(output);
             string[] lines = separar.Split(' ');
