@@ -4,3 +4,9 @@ D:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\bin\De
 D:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\bin\Debug\Examen 1.pdb
 D:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\obj\Debug\Examen 1.exe
 D:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\obj\Debug\Examen 1.pdb
+G:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\bin\Debug\Examen 1.exe.config
+G:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\obj\Debug\Examen 1.exe
+G:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\obj\Debug\Examen 1.pdb
+G:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\bin\Debug\Examen 1.exe
+G:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\bin\Debug\Examen 1.pdb
+G:\Dropbox\Universidad\Cuarto cuatrimestre\programacion\Examen 1\Examen 1\obj\Debug\Examen 1.csprojResolveAssemblyReference.cache
