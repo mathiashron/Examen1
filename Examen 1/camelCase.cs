@@ -26,7 +26,6 @@ namespace Examen_1
             ///</summary>
             int dato = 0;
             var separar = Regex.Replace(cal, "((?!^)[A-Z])", " $1");
-            //Console.WriteLine(output);
             string[] lines = separar.Split(' ');
             foreach (string line in lines)
             {

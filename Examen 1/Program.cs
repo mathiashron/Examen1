@@ -20,7 +20,7 @@ namespace Examen_1
                 //Console.Read();
 
                 camelCase camel = new camelCase();
-                string dato = "saveChangesInTheEditor";
+                string dato = "SaveChangesInTheEditor";
                 int val1 = camel.calculate(dato);
                 Console.WriteLine("La cantidad de palabras camelCase : {0}", val1);
                 Console.Read();
